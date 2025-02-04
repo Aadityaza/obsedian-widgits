@@ -1,0 +1,47 @@
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.generator-container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+button {
+    background: #6a11cb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #5a0cb7;
+}
+
+#codeOutput {
+    background: #252539;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    white-space: pre-wrap;
+    display: none;
+}
+
+.copy-button {
+    margin-top: 10px;
+    background: #4CAF50;
+}
+
+.new-window-button {
+    margin-left: 10px;
+} 
