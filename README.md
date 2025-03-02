@@ -15,6 +15,8 @@ This is a simple countdown widget for Obsidian notes that tracks progress toward
 2. Navigate to the `obsidian_widget` folder.
 3. Open the HTML file in a text editor.
 4. Modify the `START_DATE` and `TARGET_DATE` in the `CONFIG` object inside the `<script>` tag.
+
+      Or, go to this link and get yout html code:  https://aadityaza.github.io/obsedian-widgits/
 5. Save the file and embed it in your Obsidian note using an `iframe`:
 
    ```markdown
